@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Agrim Sangotra</h1>
 <h3 align="center">A passionate and enthusiastic web development student. I'm currently immersing myself in the world of coding and design.</h3>
 
-- 🌱 I’m currently learning **Front-End Languages(HTML,CSS,Js)**
+- 🌱 I’m currently learning **Front-End Languages(HTML,CSS,Js) & Python**
 
 - 📫 How to reach me **agrimsangotra@gmail.com**
 
