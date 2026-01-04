@@ -1,4 +1,3 @@
-<img src="https://pbs.twimg.com/profile_banners/1438060238406447107/1735146530/1080x360">
 <h1 align="center">Hi 👋 I'm Agrim Sangotra</h1>
 <h3 align="center">A passionate and enthusiastic web development student. I'm currently immersing myself in the world of coding and design.</h3>
 
